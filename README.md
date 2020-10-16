@@ -35,5 +35,6 @@ web3.utils.fromAscii("Blockchain is a storage system..")
 ```
 
 ## 4. 제출 방법 (Q & A)
-skeleton.sol 파일을 베이스로 작성한 Capital_ballot.sol 파일을 다음 이메일 주소(<jaeykim@altair.snu.ac.kr>)로 전송한다.
+skeleton.sol 파일을 베이스로 작성한 *1)Capital_ballot.sol 파일*과 함께 *2)수행한 테스트에 대한 내용을 담은 문서*를 함께 다음 이메일 주소(<jaeykim@altair.snu.ac.kr>)로 전송한다.
+이 때 테스트는 프로젝트에서 원하는 동작들을 수행하는 것을 보여줄 수 있는 범위 내에서 재량껏 설계할 수 있다.
 
