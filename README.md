@@ -21,7 +21,7 @@ Due: 2020/10/23 17:00
 Vote 함수에서 투표자는 원하는 proposal들에 원하는 만큼(amount) 투표권을 행사할 수 있다. 기존 Ballot 컨트랙트와의 차이점은 투표권이 모두 소진되었을 때 voted를 True로 바꿔줘야 한다는 것이다. 즉, 한 사람이 투표권이 모두 소진될 때까지 vote 함수를 계속해서 호출할 수 있다.
 
 ## 3. 테스트 방법
-**Bytes32 타입의 parameter를 입력하는 방법**
+**Bytes32 타입의 parameter를 입력하는 방법**   
 Remix의 console창에 다음과 같이 입력 후 bytes32 값을 얻는다.
 ```
 web3.utils.fromAscii("Blockchain is a financial system")
